@@ -1,0 +1,7 @@
+git clone - 
+git pull -
+git add [nombre de archivo}
+git commit
+git status
+git push origin master
+git checkout -b master-trabajo1
